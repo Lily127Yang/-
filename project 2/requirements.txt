@@ -1,0 +1,9 @@
+heapq~=3.11.4
+namedtuple~=3.11.4
+collections~=3.11.4
+tkinter~=8.6
+sleep~=3.11.4 
+time~=3.11.4
+networkx~=3.1
+matplotlib~=3.7.1
+
